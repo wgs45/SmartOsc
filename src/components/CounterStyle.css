@@ -1,0 +1,22 @@
+.counter_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    color: #fff;
+    margin-bottom: 5rem;
+}
+
+.counter img {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.number {
+    color: #8c12f0;
+    font-size: 1.7rem;
+}
